@@ -1,1 +1,2 @@
 # work
+print("Hello world!")
